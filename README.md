@@ -1,14 +1,18 @@
-# CodSoft
-CodSoft internship Tasks 
+💼 #CodSoft Internship Projects
+This repository contains the projects completed during my internship at CodSoft, focusing on frontend development and UI design.
 
-Task - 1 ( Live Demo ) -
+🚀 Projects
+🔹 Task 1: Portfolio Website
 
-https://abzy.42web.io/Portfolio.html
+A personal portfolio website showcasing skills, projects, and contact details.
+👉 Live Demo: https://abzy.42web.io/Portfolio.html
 
-Task - 2 ( Live Demo ) -
+🔹 Task 2: Landing Page
 
-https://abzy.42web.io/Landing%20Page.html
+A responsive and visually appealing landing page designed with modern UI principles.
+👉 Live Demo: https://abzy.42web.io/Landing%20Page.html
 
-Task - 3 ( Live Demo ) -
+🔹 Task 3: Calculator
 
-https://abzy.42web.io/Calculator.html
+A functional web-based calculator with a clean and user-friendly interface.
+👉 Live Demo: https://abzy.42web.io/Calculator.html
